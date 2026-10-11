@@ -1,0 +1,24 @@
+{
+  "loginUrl": "https://accounts.saucelabs.com/am/XUI/#login/",
+  "labels": {
+    "signInHeading": "Sign in",
+    "username": "User Name",
+    "password": "Password",
+    "rememberUsername": "Remember username",
+    "loginButton": "Log in",
+    "forgotPassword": "Forgot password?",
+    "resetPasswordHeading": "Reset Your Password",
+    "resetUsername": "Username",
+    "resetEmail": "Email address",
+    "resetSubmit": "Reset Password",
+    "returnToLogin": "I remember my password",
+    "google": "Authenticate with Google",
+    "github": "Authenticate with GitHub",
+    "sso": "Authenticate with SSO"
+  },
+  "invalidCredentials": {
+    "username": "invalid-user@invalid.example",
+    "password": "InvalidPassword!123"
+  },
+  "errorTextPattern": "invalid|incorrect|unable to sign in|login failed|authentication failed"
+}
